@@ -1,7 +1,5 @@
 # Global-Salary-Trends-Analysis-BI-Insights-with-SQL-Tableau
 
-# Exploring Global Data Salary Trends
-
 A data visualization project analyzing salary patterns across job roles, company sizes, regions, and experience levels within the global data industry. This project identifies key salary disparities and provides actionable insights using advanced visual storytelling.
 
 ## 🔍 Problem Statement

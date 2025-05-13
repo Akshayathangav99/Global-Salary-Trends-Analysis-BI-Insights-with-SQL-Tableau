@@ -29,5 +29,3 @@ Despite the rapid growth of the data industry, there are substantial salary disp
 - Found 72.82% of BI salaries tied to large companies
 - Highlighted mid-level roles as highly paid across geographies
 - Informed data-driven strategy for hiring, budgeting, and salary negotiation
-
-## 📂 Folder Structure
